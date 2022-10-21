@@ -8,7 +8,12 @@
 
 欢迎来到伊卡酱的GitHub主页。
 
-我主要做的是C语言、前端、Python的一些程序。
+🌟 **My Skills**  
+![](https://img.shields.io/badge/-C-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C++-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 
 了解更多可以点击下面的链接：
 
