@@ -1,8 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+Welcome+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Lvoe丶伊卡洛斯)](https://git.io/typing-svg)
+
 ### 关于我
 
 欢迎来到伊卡酱的GitHub主页。
 
-我主要做的是C语言、前端的一些程序。
+我主要做的是C语言、前端、Python的一些程序。
 
 了解更多可以点击下面的链接：
 
