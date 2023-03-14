@@ -30,9 +30,9 @@ CSDN：https://blog.csdn.net/Ikaros_521
 码云：https://gitee.com/ikaros-521
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
@@ -105,7 +105,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ikaros-521/Ikaros-521/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2023 06:59:20 UTC
+ Last Updated on 14/03/2023 08:14:12 UTC
 <!--END_SECTION:waka-->
 
 
