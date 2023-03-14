@@ -16,6 +16,6 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
