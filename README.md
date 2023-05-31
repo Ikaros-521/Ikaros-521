@@ -19,7 +19,7 @@
 
 个人主页：https://ikaros-521.gitee.io/self.gitee.io/  
 
-<img align='right' src="https://github.com/Ikaros-521/Ikaros-521/assets/40910637/3a5e50bc-91dc-4aa5-b7a0-8b27ad1c2b33" height="450">
+<img align='right' src="https://github.com/Ikaros-521/Ikaros-521/assets/40910637/3a5e50bc-91dc-4aa5-b7a0-8b27ad1c2b33" height="432">
 
 个人博客：https://ikaros-521.github.io/   
 
