@@ -15,9 +15,11 @@
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=Cpp&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
-了解更多可以点击下面的链接：
+了解更多可以点击下面的链接：  
 
-个人主页：https://ikaros-521.gitee.io/self.gitee.io/
+个人主页：https://ikaros-521.gitee.io/self.gitee.io/  
+
+<img align='right' src="https://github.com/Ikaros-521/Ikaros-521/assets/40910637/3a5e50bc-91dc-4aa5-b7a0-8b27ad1c2b33" height="450">
 
 个人博客：https://ikaros-521.github.io/   
 
@@ -28,6 +30,7 @@ CSDN：https://blog.csdn.net/Ikaros_521
 博客园：https://www.cnblogs.com/ikaros-521
 
 码云：https://gitee.com/ikaros-521
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2043%20mins-blue)
