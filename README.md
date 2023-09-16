@@ -33,9 +33,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.7%20million%20lines%20of%20code-blue)
 
@@ -78,18 +78,17 @@ Sunday                   315 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 16 mins       ████████████████░░░░░░░░░   65.50 % 
-Markdown                 1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Python                   5 hrs 3 mins        █████████████████░░░░░░░░   66.97 % 
+Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+C                        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 56 mins       █████████████████████████   98.60 % 
-Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +108,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ikaros-521/Ikaros-521/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2023 08:14:05 UTC
+ Last Updated on 16/09/2023 08:12:20 UTC
 <!--END_SECTION:waka-->
 
 
