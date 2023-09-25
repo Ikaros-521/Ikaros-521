@@ -33,7 +33,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -43,7 +43,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,526 Contributions in the Year 2023
+> 🏆 1,527 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,17 +78,17 @@ Sunday                   320 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 33 mins      ██████████████████░░░░░░░   71.38 % 
-Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Python                   15 hrs 51 mins      ███████████████████░░░░░░   77.52 % 
+Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Text                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ikaros-521/Ikaros-521/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2023 08:12:50 UTC
+ Last Updated on 25/09/2023 08:14:50 UTC
 <!--END_SECTION:waka-->
 
 
