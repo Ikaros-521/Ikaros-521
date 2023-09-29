@@ -33,9 +33,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.7%20million%20lines%20of%20code-blue)
 
@@ -43,11 +43,11 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,520 Contributions in the Year 2023
+> 🏆 1,521 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 246 Public Repositories 
+> 📜 247 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -78,17 +78,17 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 8 mins       ████████████████████░░░░░   80.33 % 
-Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Text                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-HTML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Python                   16 hrs 17 mins      ████████████████████░░░░░   81.07 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Text                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ikaros-521/Ikaros-521/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2023 08:14:20 UTC
+ Last Updated on 29/09/2023 08:14:22 UTC
 <!--END_SECTION:waka-->
 
 
