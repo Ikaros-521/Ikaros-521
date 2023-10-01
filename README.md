@@ -33,9 +33,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.7%20million%20lines%20of%20code-blue)
 
@@ -78,17 +78,17 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 41 mins      ████████████████████░░░░░   79.46 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Text                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   10 hrs 53 mins      ██████████████████████░░░   87.92 % 
+Text                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ikaros-521/Ikaros-521/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2023 08:12:44 UTC
+ Last Updated on 01/10/2023 08:13:28 UTC
 <!--END_SECTION:waka-->
 
 
