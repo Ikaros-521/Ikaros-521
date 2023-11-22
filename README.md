@@ -33,9 +33,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
 
@@ -43,7 +41,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,660 Contributions in the Year 2023
+> 🏆 1,676 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,46 +49,6 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-🌆 Daytime                848 commits         █████████░░░░░░░░░░░░░░░░   35.60 % 
-🌃 Evening                1007 commits        ███████████░░░░░░░░░░░░░░   42.28 % 
-🌙 Night                  178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Tuesday                  394 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Wednesday                397 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Friday                   323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Sunday                   335 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   11 hrs 22 mins      █████████████████░░░░░░░░   67.69 % 
-JSON                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Markdown                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 47 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  16 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -108,7 +66,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ikaros-521/Ikaros-521/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2023 08:13:59 UTC
+ Last Updated on 22/11/2023 08:15:05 UTC
 <!--END_SECTION:waka-->
 
 
