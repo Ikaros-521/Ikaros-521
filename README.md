@@ -33,9 +33,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C574%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C578%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.9%20million%20lines%20of%20code-blue)
 
@@ -43,11 +43,11 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 851 Contributions in the Year 2024
+> 🏆 854 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 296 Public Repositories 
+> 📜 298 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
@@ -78,17 +78,17 @@ Sunday                   349 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 25 mins      █████████████████░░░░░░░░   66.63 % 
-HTML                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-JSON                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-CSS                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Python                   15 hrs 15 mins      ████████████████░░░░░░░░░   65.14 % 
+HTML                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+CSS                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
