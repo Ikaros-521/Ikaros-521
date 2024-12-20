@@ -8,6 +8,9 @@
 
 欢迎来到伊卡酱的GitHub主页。
 
+**My Projects**  
+洛曦AI官网：[https://ikaros.us.kg/](https://ikaros.us.kg/)  
+
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
