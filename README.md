@@ -36,9 +36,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C264%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C264%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.3%20million%20lines%20of%20code-blue)
 
@@ -97,11 +97,11 @@ Windows                  2 hrs 47 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   76 repos            ███████████░░░░░░░░░░░░░░   42.46 % 
-JavaScript               34 repos            █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-HTML                     17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Assembly                 3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Python                   75 repos            ███████████░░░░░░░░░░░░░░   42.13 % 
+JavaScript               34 repos            █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+HTML                     17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Assembly                 3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
