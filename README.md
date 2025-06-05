@@ -9,7 +9,7 @@
 欢迎来到伊卡酱的GitHub主页。
 
 **My Projects**  
-洛曦AI官网：[https://ikaros.us.kg/](https://ikaros.us.kg/)  
+洛曦AI官网：[https://luoxiai.dpdns.org/](https://luoxiai.dpdns.org/)  
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
