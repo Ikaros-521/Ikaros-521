@@ -36,9 +36,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C462%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C462%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
 
@@ -46,11 +46,11 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 240 Contributions in the Year 2025
+> 🏆 241 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 361 Public Repositories 
+> 📜 362 Public Repositories 
  > 
 > 🔑 43 Private Repositories 
  > 
@@ -81,15 +81,15 @@ Sunday                   572 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 min               █████████████░░░░░░░░░░░░   50.34 % 
-Python                   1 min               ████████████░░░░░░░░░░░░░   48.99 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Python                   6 mins              ████████████████████░░░░░   81.33 % 
+JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Cursor                   2 mins              █████████████████████████   100.00 % 
+Cursor                   7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
