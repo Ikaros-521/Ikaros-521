@@ -38,7 +38,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C462%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
 
@@ -81,15 +81,13 @@ Sunday                   572 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              ████████████████████░░░░░   81.33 % 
-JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   7 mins              █████████████████████████   100.00 % 
+Cursor                   4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
