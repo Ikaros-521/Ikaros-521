@@ -81,15 +81,13 @@ Sunday                   577 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 32 mins        ██████████████░░░░░░░░░░░   56.89 % 
-Batchfile                1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   40.82 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
