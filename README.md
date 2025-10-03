@@ -36,8 +36,6 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C476%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20million%20lines%20of%20code-blue)
@@ -54,42 +52,6 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
  > 
 > 🔑 45 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                753 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-🌆 Daytime                1781 commits        █████████░░░░░░░░░░░░░░░░   36.29 % 
-🌃 Evening                2130 commits        ███████████░░░░░░░░░░░░░░   43.40 % 
-🌙 Night                  244 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Tuesday                  778 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Wednesday                814 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Thursday                 732 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Friday                   802 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Saturday                 561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Sunday                   577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
