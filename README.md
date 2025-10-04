@@ -36,7 +36,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C476%20hrs%2056%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20million%20lines%20of%20code-blue)
 
@@ -44,22 +46,58 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 271 Contributions in the Year 2025
+> 🏆 279 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 374 Public Repositories 
+> 📜 375 Public Repositories 
  > 
 > 🔑 45 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                753 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+🌆 Daytime                1788 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
+🌃 Evening                2130 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
+🌙 Night                  244 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Tuesday                  778 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Wednesday                814 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Thursday                 732 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Friday                   802 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Saturday                 568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Sunday                   577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   82 repos            ███████████░░░░░░░░░░░░░░   43.16 % 
-JavaScript               36 repos            █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-HTML                     16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   82 repos            ███████████░░░░░░░░░░░░░░   42.93 % 
+JavaScript               37 repos            █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+HTML                     16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
