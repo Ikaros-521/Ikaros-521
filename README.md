@@ -36,7 +36,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C515%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -46,11 +46,11 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2026
+> 🏆 31 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 407 Public Repositories 
+> 📜 408 Public Repositories 
  > 
 > 🔑 51 Private Repositories 
  > 
@@ -81,17 +81,17 @@ Sunday                   597 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 51 mins       ████████████████░░░░░░░░░   64.29 % 
-Batchfile                2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Vue.js                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Python                   4 hrs 37 mins       ████████████████░░░░░░░░░   63.19 % 
+Batchfile                2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
+Vue.js                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 33 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
