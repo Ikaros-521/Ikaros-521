@@ -81,13 +81,14 @@ Sunday                   606 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   43 mins             █████████████████████░░░░   85.69 % 
+TOML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
