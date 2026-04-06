@@ -36,9 +36,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C582%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C584%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -81,18 +81,18 @@ Sunday                   629 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   41.99 % 
-TypeScript               11 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Other                    4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Markdown                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-PowerShell               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Python                   14 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.23 % 
+TypeScript               9 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Other                    4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Markdown                 1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+PowerShell               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-Cursor                   36 hrs 11 mins      █████████████████████████   99.97 % 
+Cursor                   33 hrs 15 mins      █████████████████████████   99.97 % 
 Trae                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  36 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
