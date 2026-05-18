@@ -36,8 +36,6 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C650%20hrs%201%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.73%20million%20lines%20of%20code-blue?style=flat)
@@ -46,55 +44,14 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2026
+> 🏆 70 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 424 Public Repositories 
+> 📜 425 Public Repositories 
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                949 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-🌆 Daytime                2166 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌃 Evening                2402 commits        ██████████░░░░░░░░░░░░░░░   41.75 % 
-🌙 Night                  236 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Tuesday                  923 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                964 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Thursday                 875 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Friday                   969 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Saturday                 608 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Sunday                   660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 39 mins        ███████████████░░░░░░░░░░   61.92 % 
-TypeScript               32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-
-🔥 Editors: 
-Cursor                   2 hrs 40 mins       █████████████████████████   99.34 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-
-💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
