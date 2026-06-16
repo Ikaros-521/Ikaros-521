@@ -36,72 +36,31 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C678%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C678%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2026
+> 🏆 93 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 432 Public Repositories 
+> 📜 433 Public Repositories 
  > 
 > 🔑 64 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1036 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-🌆 Daytime                2311 commits        █████████░░░░░░░░░░░░░░░░   36.79 % 
-🌃 Evening                2697 commits        ███████████░░░░░░░░░░░░░░   42.93 % 
-🌙 Night                  238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   815 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Tuesday                  993 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Wednesday                1085 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Thursday                 994 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Friday                   1031 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Saturday                 630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Sunday                   734 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 31 mins        █████████████░░░░░░░░░░░░   52.22 % 
-JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-PowerShell               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Batchfile                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   98.42 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-
-💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   107 repos           ████████████░░░░░░░░░░░░░   49.31 % 
-JavaScript               37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-HTML                     18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Python                   107 repos           ████████████░░░░░░░░░░░░░   49.08 % 
+JavaScript               37 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+HTML                     18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+TypeScript               9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
