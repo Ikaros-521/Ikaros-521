@@ -36,15 +36,17 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C693%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2026
+> 🏆 135 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,21 +57,21 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-🌆 Daytime                2463 commits        █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌃 Evening                2779 commits        ███████████░░░░░░░░░░░░░░   42.25 % 
+🌞 Morning                1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+🌆 Daytime                2463 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
+🌃 Evening                2788 commits        ███████████░░░░░░░░░░░░░░   42.33 % 
 🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Tuesday                  1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Wednesday                1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Thursday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   1070 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Saturday                 643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Monday                   875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Tuesday                  1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Thursday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Friday                   1079 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Saturday                 643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 ```
 
 
@@ -79,15 +81,16 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 mins              ██████████████████░░░░░░░   70.97 % 
-Text                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+TypeScript               14 mins             ███████████████████████░░   93.66 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Cursor                   3 mins              █████████████████████████   100.00 % 
+Cursor                   15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
