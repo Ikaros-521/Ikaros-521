@@ -36,8 +36,6 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C694%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.28%20million%20lines%20of%20code-blue?style=flat)
@@ -57,21 +55,21 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-🌆 Daytime                2463 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
-🌃 Evening                2788 commits        ███████████░░░░░░░░░░░░░░   42.33 % 
-🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌞 Morning                1099 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                2463 commits        █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌃 Evening                2791 commits        ███████████░░░░░░░░░░░░░░   42.33 % 
+🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Tuesday                  1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Wednesday                1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Thursday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Friday                   1079 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Saturday                 643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Monday                   879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Wednesday                1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Thursday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Friday                   1080 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Saturday                 643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 
 
@@ -81,17 +79,24 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 20 mins        ███████████████░░░░░░░░░░   61.95 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript               5 hrs 17 mins       ████████████████████░░░░░   81.12 % 
+TypeScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 10 mins       █████████████████████████   100.00 % 
+Cursor                   6 hrs 17 mins       ████████████████████████░   96.37 % 
+Trae                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
