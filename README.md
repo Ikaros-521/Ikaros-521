@@ -40,7 +40,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -83,18 +83,18 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       ████████████████████░░░░░   81.12 % 
-TypeScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+JavaScript               5 hrs 17 mins       █████████████████████░░░░   83.82 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 17 mins       ████████████████████████░   96.37 % 
-Trae                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Cursor                   6 hrs 4 mins        ████████████████████████░   96.25 % 
+Trae                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
