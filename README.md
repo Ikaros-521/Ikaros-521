@@ -83,18 +83,17 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       █████████████████████░░░░   83.82 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JavaScript               5 hrs 16 mins       ███████████████████████░░   91.95 % 
+TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 4 mins        ████████████████████████░   96.25 % 
-Trae                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Cursor                   5 hrs 30 mins       ████████████████████████░   95.87 % 
+Trae                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
