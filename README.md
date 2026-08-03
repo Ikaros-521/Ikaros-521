@@ -48,32 +48,32 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 437 Public Repositories 
+> 📜 438 Public Repositories 
  > 
 > 🔑 70 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1111 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-🌆 Daytime                2465 commits        █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌃 Evening                2803 commits        ███████████░░░░░░░░░░░░░░   42.34 % 
-🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+🌞 Morning                1119 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+🌆 Daytime                2468 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
+🌃 Evening                2805 commits        ███████████░░░░░░░░░░░░░░   42.29 % 
+🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Tuesday                  1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                1137 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Friday                   1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Saturday                 643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Monday                   886 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Tuesday                  1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                1137 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Thursday                 1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Saturday                 643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
 
@@ -83,17 +83,16 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 hrs 16 mins       ███████████████████████░░   91.95 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               3 hrs 56 mins       ██████████████████████░░░   89.53 % 
+TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 30 mins       ████████████████████████░   95.87 % 
-Trae                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Cursor                   4 hrs 10 mins       ████████████████████████░   94.63 % 
+Trae                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
