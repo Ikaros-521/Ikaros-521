@@ -59,21 +59,21 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-🌆 Daytime                2496 commits        █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌃 Evening                2821 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+🌞 Morning                1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+🌆 Daytime                2496 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌃 Evening                2825 commits        ███████████░░░░░░░░░░░░░░   42.24 % 
+🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  1096 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Wednesday                1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Thursday                 1052 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Saturday                 643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Tuesday                  1096 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Wednesday                1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Thursday                 1052 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 
