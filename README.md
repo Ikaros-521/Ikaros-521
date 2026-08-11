@@ -40,7 +40,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -83,44 +83,44 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.69 % 
-TypeScript               1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   37.02 % 
-Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               1 hr 50 mins        █████████████░░░░░░░░░░░░   50.99 % 
+Python                   56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.56 % 
-Cursor                   1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   32.04 % 
-VS Code                  1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Trae                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Cursor                   1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   36.47 % 
+Claude Code              1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.30 % 
+VS Code                  1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Trae                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (55.9%)
+⏱ AI Coding Time: 1 hr 42 mins (46.92%)
 
-✍️ 4,830 lines written by AI, 514 lines written by hand (90.38% AI-written)
+✍️ 4,670 lines written by AI, 510 lines written by hand (90.15% AI-written)
 
-🔤 18,369,245 Input Tokens, 152,163 Output Tokens
+🔤 14,786,721 Input Tokens, 110,108 Output Tokens
 
 💵 $3.57 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 20 AI Prompts
+🧠 4 AI Sessions, 12 AI Prompts
 
 Longcat                  73 lines            █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.38% of written lines came from AI
-📝 Concise Prompter — average 336 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 10.11% of changed lines were hand-edited
+🤖 AI-Driven — 90.15% of written lines came from AI
+📝 Concise Prompter — average 171 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 10.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
