@@ -48,11 +48,11 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2026
+> 🏆 167 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 439 Public Repositories 
+> 📜 440 Public Repositories 
  > 
 > 🔑 70 Private Repositories 
  > 
@@ -83,44 +83,43 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 50 mins        █████████████░░░░░░░░░░░░   50.99 % 
-Python                   56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               1 hr 3 mins         ██████████████░░░░░░░░░░░   55.99 % 
+Python                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-Cursor                   1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   36.47 % 
-Claude Code              1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.30 % 
-VS Code                  1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Trae                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+VS Code                  1 hr 3 mins         ██████████████░░░░░░░░░░░   55.77 % 
+Cursor                   49 mins             ███████████░░░░░░░░░░░░░░   44.17 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (46.92%)
+⏱ AI Coding Time: 26 mins (23.45%)
 
-✍️ 4,670 lines written by AI, 510 lines written by hand (90.15% AI-written)
+✍️ 73 lines written by AI, 128 lines written by hand (36.32% AI-written)
 
-🔤 14,786,721 Input Tokens, 110,108 Output Tokens
+🔤 121,806 Input Tokens, 1,997 Output Tokens
 
-💵 $3.57 Estimated AI Cost This Week
+💵 $0.40 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 5 AI Sessions, 7 AI Prompts
 
 Longcat                  73 lines            █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.15% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 10.34% of changed lines were hand-edited
+⚖️ Balanced with AI — 36.32% of written lines came from AI
+📝 Concise Prompter — average 87 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 68.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
