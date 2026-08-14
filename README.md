@@ -42,7 +42,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,21 +59,21 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1124 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-🌆 Daytime                2491 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
-🌃 Evening                2827 commits        ███████████░░░░░░░░░░░░░░   42.30 % 
-🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+🌞 Morning                1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌆 Daytime                2496 commits        █████████░░░░░░░░░░░░░░░░   37.30 % 
+🌃 Evening                2828 commits        ███████████░░░░░░░░░░░░░░   42.27 % 
+🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  1096 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Wednesday                1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Thursday                 1052 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Sunday                   739 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Tuesday                  1096 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Wednesday                1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 
@@ -83,26 +83,24 @@ Sunday                   739 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 mins             ████████████████████████░   96.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other                    0 secs              █████████████░░░░░░░░░░░░   50.89 % 
+Git Config               0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Markdown                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 
 🔥 Editors: 
-VS Code                  13 mins             ████████████████████████░   96.47 % 
-Agent                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Agent                    0 secs              ████████████████░░░░░░░░░   65.16 % 
+Cursor                   0 secs              █████████░░░░░░░░░░░░░░░░   34.84 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (3.53%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
-✍️ 0 lines written by AI, 14 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
 🔤 201 Input Tokens, 201 Output Tokens
 
