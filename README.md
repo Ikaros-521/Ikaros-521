@@ -42,7 +42,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,21 +59,21 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-🌆 Daytime                2496 commits        █████████░░░░░░░░░░░░░░░░   37.30 % 
-🌃 Evening                2828 commits        ███████████░░░░░░░░░░░░░░   42.27 % 
-🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+🌞 Morning                1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+🌆 Daytime                2501 commits        █████████░░░░░░░░░░░░░░░░   37.30 % 
+🌃 Evening                2832 commits        ███████████░░░░░░░░░░░░░░   42.24 % 
+🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Tuesday                  1096 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Wednesday                1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Wednesday                1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 ```
 
 
@@ -83,36 +83,37 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Git Config               0 secs              █████████████░░░░░░░░░░░░   51.44 % 
-Markdown                 0 secs              ████████████░░░░░░░░░░░░░   48.56 % 
+Other                    2 hrs 20 mins       █████████████████████████   99.70 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Cursor                   0 secs              ██████████████████░░░░░░░   70.93 % 
-Agent                    0 secs              ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Cursor                   2 hrs 14 mins       ████████████████████████░   96.02 % 
+Agent                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
+⏱ AI Coding Time: 2 hrs 20 mins (100.0%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 131 Input Tokens, 131 Output Tokens
+🔤 84,331,377 Input Tokens, 593,819 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $506.60 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 20 AI Sessions, 5 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 175 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 45,613 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
