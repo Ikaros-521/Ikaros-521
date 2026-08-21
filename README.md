@@ -36,9 +36,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C659%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C659%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -60,8 +60,8 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ```text
 🌞 Morning                1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-🌆 Daytime                2501 commits        █████████░░░░░░░░░░░░░░░░   37.30 % 
-🌃 Evening                2832 commits        ███████████░░░░░░░░░░░░░░   42.24 % 
+🌆 Daytime                2501 commits        █████████░░░░░░░░░░░░░░░░   37.29 % 
+🌃 Evening                2833 commits        ███████████░░░░░░░░░░░░░░   42.25 % 
 🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -70,10 +70,10 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 Tuesday                  1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 Wednesday                1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Thursday                 1054 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
 
 
@@ -83,15 +83,15 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 28 mins       ██████████████████████░░░   87.01 % 
+Other                    2 hrs 28 mins       ██████████████████████░░░   86.99 % 
 Git Config               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 31 mins       ██████████████████████░░░   88.97 % 
-Agent                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Cursor                   2 hrs 31 mins       ██████████████████████░░░   88.96 % 
+Agent                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 💻 Operating System: 
 Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
@@ -104,17 +104,17 @@ Windows                  2 hrs 50 mins       ███████████�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 99,891,222 Input Tokens, 706,529 Output Tokens
+🔤 99,901,919 Input Tokens, 717,226 Output Tokens
 
-💵 $598.26 Estimated AI Cost This Week
+💵 $598.45 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 13 AI Prompts
+🧠 30 AI Sessions, 15 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 32,704 characters per prompt
+📚 Verbose Prompter — average 31,196 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
