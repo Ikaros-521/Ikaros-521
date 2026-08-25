@@ -40,7 +40,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -83,38 +83,38 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 28 mins       ██████████████████████░░░   86.99 % 
-Git Config               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    2 hrs 30 mins       ███████████████████░░░░░░   76.60 % 
+Bash                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Git Config               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 31 mins       ██████████████████████░░░   88.96 % 
-Agent                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Cursor                   2 hrs 46 mins       █████████████████████░░░░   84.80 % 
+Agent                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 50 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 16 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 99,901,919 Input Tokens, 717,226 Output Tokens
+🔤 124,427,914 Input Tokens, 849,926 Output Tokens
 
-💵 $598.45 Estimated AI Cost This Week
+💵 $745.82 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 15 AI Prompts
+🧠 35 AI Sessions, 17 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 31,196 characters per prompt
+📚 Verbose Prompter — average 34,563 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
