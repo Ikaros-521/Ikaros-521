@@ -48,32 +48,32 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 167 Contributions in the Year 2026
+> 🏆 171 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 440 Public Repositories 
  > 
-> 🔑 71 Private Repositories 
+> 🔑 72 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-🌆 Daytime                2501 commits        █████████░░░░░░░░░░░░░░░░   37.29 % 
-🌃 Evening                2833 commits        ███████████░░░░░░░░░░░░░░   42.25 % 
+🌞 Morning                1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+🌆 Daytime                2504 commits        █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌃 Evening                2836 commits        ███████████░░░░░░░░░░░░░░   42.25 % 
 🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Tuesday                  1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Wednesday                1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Thursday                 1054 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Friday                   1094 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Tuesday                  1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Thursday                 1054 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Friday                   1100 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -83,34 +83,33 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     10 mins             █████████████████████████   100.00 % 
+Bash                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   10 mins             █████████████████████████   99.66 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Cursor                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (100.0%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 389,014 Input Tokens, 30,544 Output Tokens
+🔤 11,198 Input Tokens, 11,198 Output Tokens
 
-💵 $2.67 Estimated AI Cost This Week
+💵 $0.20 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 29,195 characters per prompt
+📚 Verbose Prompter — average 44,795 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -118,10 +117,10 @@ Composer                 0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   109 repos           ████████████░░░░░░░░░░░░░   48.88 % 
-JavaScript               37 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-HTML                     18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-TypeScript               12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Python                   109 repos           ████████████░░░░░░░░░░░░░   48.66 % 
+JavaScript               37 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+HTML                     18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+TypeScript               13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
