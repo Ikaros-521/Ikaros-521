@@ -40,7 +40,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,32 +48,32 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2026
+> 🏆 183 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 440 Public Repositories 
+> 📜 441 Public Repositories 
  > 
 > 🔑 72 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-🌆 Daytime                2507 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
-🌃 Evening                2839 commits        ███████████░░░░░░░░░░░░░░   42.26 % 
-🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+🌞 Morning                1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+🌆 Daytime                2515 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
+🌃 Evening                2839 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Tuesday                  1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Wednesday                1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Thursday                 1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   1100 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Tuesday                  1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Wednesday                1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Friday                   1108 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 ```
 
 
@@ -83,29 +83,51 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Batchfile                29 mins             ███████████░░░░░░░░░░░░░░   44.76 % 
+Other                    24 mins             █████████░░░░░░░░░░░░░░░░   37.26 % 
+Python                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 1 min          ███████████████████████░░   93.20 % 
+Agent                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 5 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 49,729,463 Input Tokens, 229,599 Output Tokens
+
+💵 $299.71 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 4 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 13,683 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   109 repos           ████████████░░░░░░░░░░░░░   48.66 % 
-JavaScript               37 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-HTML                     18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-TypeScript               13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Python                   109 repos           ████████████░░░░░░░░░░░░░   48.44 % 
+JavaScript               37 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+HTML                     18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
