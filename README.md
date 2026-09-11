@@ -40,7 +40,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -83,39 +83,34 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    33 mins             ███████████░░░░░░░░░░░░░░   44.70 % 
-Batchfile                29 mins             ██████████░░░░░░░░░░░░░░░   39.46 % 
-Python                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Other                    1 hr 24 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 1 min          █████████████████████░░░░   82.15 % 
-Agent                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Cursor                   1 hr 15 mins        ██████████████████████░░░   89.49 % 
+Agent                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (100.0%)
+⏱ AI Coding Time: 1 hr 24 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 49,732,591 Input Tokens, 232,727 Output Tokens
+🔤 38,390,307 Input Tokens, 63,545 Output Tokens
 
-💵 $299.77 Estimated AI Cost This Week
+💵 $226.84 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 4 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 8,406 characters per prompt
+📚 Verbose Prompter — average 3,129 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
