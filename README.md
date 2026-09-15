@@ -40,7 +40,7 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -54,23 +54,23 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
  > 
 > 📜 441 Public Repositories 
  > 
-> 🔑 72 Private Repositories 
+> 🔑 73 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+🌞 Morning                1132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 🌆 Daytime                2515 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
-🌃 Evening                2839 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+🌃 Evening                2839 commits        ███████████░░░░░░░░░░░░░░   42.20 % 
 🌙 Night                  241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  1104 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 Wednesday                1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Thursday                 1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Thursday                 1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 Friday                   1108 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 Saturday                 647 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 Sunday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
@@ -83,19 +83,36 @@ Sunday                   746 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   7 mins              █████████████████████████   99.16 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 1,697,893 Input Tokens, 20,179 Output Tokens
+
+💵 $10.38 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 16,980 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
