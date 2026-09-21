@@ -48,11 +48,11 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2026
+> 🏆 184 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 441 Public Repositories 
+> 📜 442 Public Repositories 
  > 
 > 🔑 73 Private Repositories 
  > 
@@ -83,34 +83,36 @@ Sunday                   747 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     7 mins              █████████████████████████   100.00 % 
+Other                    27 mins             █████████████░░░░░░░░░░░░   50.05 % 
+TypeScript               20 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
+Bash                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 
 🔥 Editors: 
-Cursor                   7 mins              █████████████████████████   99.16 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Cursor                   46 mins             █████████████████████░░░░   83.68 % 
+Agent                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (100.0%)
+⏱ AI Coding Time: 55 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,697,893 Input Tokens, 20,179 Output Tokens
+🔤 2,035,947 Input Tokens, 163,344 Output Tokens
 
-💵 $10.38 Estimated AI Cost This Week
+💵 $37.72 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 6 AI Sessions, 6 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 16,980 characters per prompt
+📚 Verbose Prompter — average 70,962 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
