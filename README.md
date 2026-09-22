@@ -36,9 +36,9 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C660%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C661%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -83,37 +83,37 @@ Sunday                   747 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 mins             █████████████░░░░░░░░░░░░   50.05 % 
-TypeScript               20 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
-Bash                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Other                    2 hrs 2 mins        █████████████████████░░░░   85.66 % 
+TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Cursor                   46 mins             █████████████████████░░░░   83.68 % 
-Agent                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Cursor                   2 hrs 6 mins        ██████████████████████░░░   87.90 % 
+Agent                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 23 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,035,947 Input Tokens, 163,344 Output Tokens
+🔤 1,405,583 Input Tokens, 405,284 Output Tokens
 
-💵 $37.72 Estimated AI Cost This Week
+💵 $221.77 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 6 AI Prompts
+🧠 13 AI Sessions, 5 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 70,962 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 78,420 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
