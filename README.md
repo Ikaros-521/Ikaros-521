@@ -83,36 +83,36 @@ Sunday                   747 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    55 mins             ██████████████████░░░░░░░   72.96 % 
-TypeScript               20 mins             ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    27 mins             ██████████████░░░░░░░░░░░   57.47 % 
+TypeScript               20 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Cursor                   58 mins             ███████████████████░░░░░░   77.18 % 
-Agent                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Cursor                   39 mins             ████████████████████░░░░░   81.39 % 
+Agent                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (100.0%)
+⏱ AI Coding Time: 48 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 517,178 Input Tokens, 188,749 Output Tokens
+🔤 338,054 Input Tokens, 143,165 Output Tokens
 
-💵 $42.84 Estimated AI Cost This Week
+💵 $27.34 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 4 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 78,420 characters per prompt
+📚 Verbose Prompter — average 97,954 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
