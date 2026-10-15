@@ -42,38 +42,38 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.5 MB Used in GitHub's Storage 
+> 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 324 Contributions in the Year 2026
+> 🏆 348 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 460 Public Repositories 
  > 
-> 🔑 77 Private Repositories 
+> 🔑 78 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1217 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-🌆 Daytime                2653 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌃 Evening                2926 commits        ██████████░░░░░░░░░░░░░░░   41.53 % 
-🌙 Night                  250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+🌞 Morning                1224 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+🌆 Daytime                2664 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
+🌃 Evening                2937 commits        ██████████░░░░░░░░░░░░░░░   41.51 % 
+🌙 Night                  250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   964 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  1194 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Wednesday                1267 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Thursday                 1078 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Friday                   1127 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Saturday                 661 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Sunday                   755 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Monday                   964 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Tuesday                  1194 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Wednesday                1275 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Thursday                 1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Friday                   1127 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Saturday                 662 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Sunday                   756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 ```
 
 
@@ -83,28 +83,52 @@ Sunday                   755 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 45 mins        █████████████████░░░░░░░░   66.94 % 
+TeX                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+ZCode                    1 hr 34 mins        ███████████████░░░░░░░░░░   60.41 % 
+VS Code                  54 mins             █████████░░░░░░░░░░░░░░░░   34.57 % 
+Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 29 mins (95.2%)
+
+✍️ 1,282 lines written by AI, 3 lines written by hand (99.77% AI-written)
+
+🔤 123,577 Input Tokens, 13,623 Output Tokens
+
+💵 $4.95 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 8 AI Prompts
+
+ZCode                    1,271 lines         █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.77% of written lines came from AI
+📝 Concise Prompter — average 109 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   112 repos           ████████████░░░░░░░░░░░░░   48.70 % 
-JavaScript               39 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-HTML                     18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+JavaScript               38 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
