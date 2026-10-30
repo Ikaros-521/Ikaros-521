@@ -40,40 +40,40 @@ CSDN：[blog.csdn.net/Ikaros_521](https://blog.csdn.net/Ikaros_521)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.23%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 643 Contributions in the Year 2026
+> 🏆 680 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 472 Public Repositories 
+> 📜 475 Public Repositories 
  > 
 > 🔑 78 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1380 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-🌆 Daytime                2974 commits        ██████████░░░░░░░░░░░░░░░   38.05 % 
-🌃 Evening                3185 commits        ██████████░░░░░░░░░░░░░░░   40.75 % 
-🌙 Night                  277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+🌞 Morning                1384 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+🌆 Daytime                2997 commits        ██████████░░░░░░░░░░░░░░░   38.14 % 
+🌃 Evening                3200 commits        ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌙 Night                  277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1090 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Tuesday                  1315 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Wednesday                1437 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Thursday                 1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Friday                   1270 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Saturday                 714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Sunday                   795 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Monday                   1090 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Tuesday                  1315 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Wednesday                1437 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Thursday                 1197 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Friday                   1310 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Saturday                 714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   795 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 ```
 
 
@@ -83,52 +83,50 @@ Sunday                   795 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 41 mins       ███████████████░░░░░░░░░░   61.06 % 
-Markdown                 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Java                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Batchfile                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Other                    4 hrs 41 mins       ███████████████████░░░░░░   75.36 % 
+Markdown                 1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Batchfile                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 27 mins       ████████████████████████░   96.90 % 
-Antigravity              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Cursor                   5 hrs 59 mins       ████████████████████████░   96.18 % 
+Antigravity              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 Operating System: 
-Windows                  7 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 35 mins (98.59%)
+⏱ AI Coding Time: 6 hrs 14 mins (100.0%)
 
-✍️ 492 lines written by AI, 3 lines written by hand (99.39% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 957,277 Input Tokens, 121,938 Output Tokens
+🔤 134,157 Input Tokens, 14,048 Output Tokens
 
-💵 $5.83 Estimated AI Cost This Week
+💵 $0.44 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 69 AI Prompts
+🧠 12 AI Sessions, 64 AI Prompts
 
-GPT                      492 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📝 Concise Prompter — average 34 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 32 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   117 repos           ████████████░░░░░░░░░░░░░   48.95 % 
-JavaScript               40 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-HTML                     19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   117 repos           ████████████░░░░░░░░░░░░░   48.55 % 
+JavaScript               42 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+HTML                     19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 
