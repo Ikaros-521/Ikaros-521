@@ -58,9 +58,13 @@
       </td>
       <td width="50%" align="center" valign="top">
         <a href="https://luoxiai.dpdns.org/">
-          <img src="https://img.shields.io/badge/%E6%B4%9B%E6%9B%AIAI-Commercial%20Product-7928CA?style=for-the-badge&logo=probot&logoColor=white" height="42" />
+          <img src="https://raw.githubusercontent.com/Ikaros-521/LX_AI/main/ui/logo.png" height="110" alt="洛曦AI Logo" style="border-radius: 14px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
         </a>
         <br/><br/>
+        <a href="https://luoxiai.dpdns.org/">
+          <img src="https://img.shields.io/badge/%E6%B4%9B%E6%9B%AIAI-Commercial%20Product-7928CA?style=for-the-badge" height="28" alt="洛曦AI" />
+        </a>
+        <br/>
         <p align="left">
           🎙️ <b>洛曦 AI（无人 AI 数字人直播系统）</b><br/>
           • 自主开发与商业化运营的 AI 直播交付方案<br/>
