@@ -1,6 +1,6 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,28,38,43&height=180&section=header&text=Love%E4%B8%B6%E4%BC%8A%E5%8D%A1%E6%87%89%E6%96%AF&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,28,38,43&height=180&section=header&text=Love%E4%B8%B6%E4%BC%8A%E5%8D%A1%E6%B4%9B%E6%96%AF&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
