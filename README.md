@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/Ikaros-521/AI-Vtuber"><img src="https://img.shields.io/badge/Open%20Source-AI--Vtuber%20(4.5k%2B%20%E2%AD%90)-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="AI-Vtuber"/></a>
-  <a href="https://luoxiai.dpdns.org/"><img src="https://img.shields.io/badge/Product-%E6%B4%9B%E6%9B%AIAI-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="洛曦AI"/></a>
-  <a href="https://space.bilibili.com/3709626"><img src="https://img.shields.io/badge/Bilibili-%E4%BC%8A%E5%8D%A1%E9%85%B1-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"/></a>
+  <a href="https://luoxiai.dpdns.org/"><img src="https://img.shields.io/badge/Product-LX_AI-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="洛曦AI"/></a>
+  <a href="https://space.bilibili.com/3709626"><img src="https://img.shields.io/badge/Bilibili-Love%E4%B8%B6%E4%BC%8A%E5%8D%A1%E6%B4%9B%E6%96%AF-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"/></a>
   <a href="https://ikaros-521.github.io/"><img src="https://img.shields.io/badge/Blog-Ikaros%20Blog-4CAF50?style=for-the-badge&logo=blogger&logoColor=white" alt="博客"/></a>
 </p>
 
@@ -62,7 +62,7 @@
         </a>
         <br/><br/>
         <a href="https://luoxiai.dpdns.org/">
-          <img src="https://img.shields.io/badge/%E6%B4%9B%E6%9B%AIAI-Commercial%20Product-7928CA?style=for-the-badge" height="28" alt="洛曦AI" />
+          <img src="https://img.shields.io/badge/Product-LX_AI-7928CA?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="洛曦AI" />
         </a>
         <br/>
         <p align="left">
@@ -103,12 +103,14 @@
 ### 📊 个人数据看板 (GitHub Metrics)
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Ikaros-521&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Ikaros-521's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Ikaros-521&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ikaros-521&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="58%" alt="Ikaros-521's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ikaros-521&theme=tokyonight&hide_border=true" width="58%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ikaros-521&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ikaros-521&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" />
 </p>
 
 <!--START_SECTION:waka-->
