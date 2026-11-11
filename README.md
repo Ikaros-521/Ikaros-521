@@ -225,7 +225,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <p align="center">
   <a href="https://ikaros-521.github.io/"><img src="https://img.shields.io/badge/个人博客-ikaros--521.github.io-4CAF50?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   &nbsp;
-  <a href="https://space.bilibili.com/3709626"><img src="https://space.bilibili.com/3709626"><img src="https://img.shields.io/badge/Bilibili-Love%E4%B8%B6%E4%BC%8A%E5%8D%A1%E6%B4%9B%E6%96%AF-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/3709626"><img src="https://img.shields.io/badge/Bilibili-Love%E4%B8%B6%E4%BC%8A%E5%8D%A1%E6%B4%9B%E6%96%AF-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
   &nbsp;
   <a href="https://blog.csdn.net/Ikaros_521"><img src="https://img.shields.io/badge/CSDN-Ikaros__521-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>
   &nbsp;
